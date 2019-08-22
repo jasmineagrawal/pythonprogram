@@ -4,7 +4,7 @@ def fibo(n):
     print("0")
     print("1")
 
-    while n!=0:
+    while n-2!=0:
         c=a
         a=a+b
         b=c
